@@ -1,29 +1,40 @@
-name: TJ Nealy
+layout_spectrum: 0.9829787
 favicon: null
-layout_spectrum: 0.99326
-typography_spectrum: 0.10309
-title: THIS... Is Me.
-cta:
-  domain: null
-  bucket: null
-  version: null
+name: TJ Nealy
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
-  brandColors:
-    - '#fcfcfc'
-    - '#1a181b'
-    - '#756d6a'
-    - '#ded1af'
-    - '#b8916a'
-  brandStrength: 0.8125
-  lightness: 0.3125
+  brandStrength: 0.9406322096474469
   saturation: 0.6594113311730325
-  rhythmicContrast: 0.75
-purpose: []
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  lightness: 0.1427602444309741
+  rhythmicContrast: 0.4125962466932833
+typography_spectrum: 0.1663109187502414

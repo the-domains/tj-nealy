@@ -1,15 +1,7 @@
-layout_spectrum: 0.9829787
-favicon: null
 name: TJ Nealy
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.9829787
+typography_spectrum: 0.11236
 collections:
   - index:
       navigable: true
@@ -23,18 +15,26 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  version: null
-  bucket: null
   domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.9406322096474469
-  saturation: 0.6594113311730325
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+  brandStrength: 0.9406322096474469
   lightness: 0.1427602444309741
+  saturation: 0.6594113311730325
   rhythmicContrast: 0.4125962466932833
-typography_spectrum: 0.1663109187502414
+purpose: []

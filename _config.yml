@@ -1,7 +1,7 @@
-name: TJ Nealy
+name: TJMG - Beauty+ Initiative
 favicon: null
-layout_spectrum: 0.9829787
-typography_spectrum: 0.11236
+layout_spectrum: 0
+typography_spectrum: 0.56845
 collections:
   - index:
       navigable: true
@@ -34,8 +34,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.9406322096474469
-  lightness: 0.2106383
-  saturation: 0.6594113
-  rhythmicContrast: 0.7531915
+  brandStrength: 0.625
+  lightness: 0.3125
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
